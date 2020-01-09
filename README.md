@@ -3,11 +3,9 @@ I built a deep neural network that functions as part of an end-to-end machine tr
 
 # Setup
 
-Create (and activate) a new environment with Python 3.5 and the numpy package.
-
 Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/.
+git clone https://github.com/iDataist/Machine-Translation
 
 cd machine_translation
 ```
@@ -15,7 +13,6 @@ cd machine_translation
 Create (and activate) a new environment with Python 3.5 and the numpy package.
 ```
 conda create --name aind-nlp-capstone python=3.5 numpy
-
 source activate aind-nlp-capstone
 ```
 
