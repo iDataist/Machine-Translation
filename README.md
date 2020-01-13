@@ -12,8 +12,8 @@ cd machine_translation
 
 Create (and activate) a new environment with Python 3.5 and the numpy package.
 ```
-conda create --name aind-nlp-capstone python=3.5 numpy
-source activate aind-nlp-capstone
+conda create --name machine-translation python=3.5 numpy
+source activate machine-translation
 ```
 
 Install/Update TensorFlow.
